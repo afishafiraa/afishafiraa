@@ -1,6 +1,6 @@
 <!--
 **afishafiraa/afishafiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="justify"> Hi 👋, just call me <strong>Afi</strong> </h1>
+<h1 align="justify"> Hi 👋 call me <strong>Afi</strong> </h1>
 <h3 align="justify"> Web Developer | Software Engineer | Laravel Developer | Learner javascript </h3>
 
 🌱 Technical Skills: PHP | JavaScript | Python | CSS | MySQL | PostgreSQL | Laravel | Github
